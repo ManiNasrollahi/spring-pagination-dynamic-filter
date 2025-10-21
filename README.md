@@ -1,4 +1,4 @@
-# 🧩 Spring Boot Dynamic Filterable Pagination Library
+# 🧩 Spring Boot Dynamic Filterable Pagination
 
 A **lightweight**, **generic**, and **type-safe** utility for adding **dynamic filtering, sorting, and pagination** to your Spring Data JPA repositories — without writing boilerplate code or dozens of query methods.
 
